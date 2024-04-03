@@ -1,0 +1,6 @@
+C:\Users\İlker\Desktop\ConvertFileToBase64\ConvertFileToBase64.exe
+C:\Users\İlker\Desktop\ConvertFileToBase64\ConvertFileToBase64.deps.json
+C:\Users\İlker\Desktop\ConvertFileToBase64\ConvertFileToBase64.runtimeconfig.json
+C:\Users\İlker\Desktop\ConvertFileToBase64\ConvertFileToBase64.pdb
+C:\Users\İlker\Desktop\ConvertFileToBase64\SixLabors.ImageSharp.dll
+C:\Users\İlker\Desktop\ConvertFileToBase64\ConvertFileToBase64.dll

@@ -1,0 +1,17 @@
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\bin\Release\net6.0\ConvertFileToBase64.exe
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\bin\Release\net6.0\ConvertFileToBase64.deps.json
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\bin\Release\net6.0\ConvertFileToBase64.runtimeconfig.json
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\bin\Release\net6.0\ConvertFileToBase64.dll
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\bin\Release\net6.0\ConvertFileToBase64.pdb
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\bin\Release\net6.0\SixLabors.ImageSharp.dll
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\obj\Release\net6.0\ConvertFileToBase64.csproj.AssemblyReference.cache
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\obj\Release\net6.0\ConvertFileToBase64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\obj\Release\net6.0\ConvertFileToBase64.AssemblyInfoInputs.cache
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\obj\Release\net6.0\ConvertFileToBase64.AssemblyInfo.cs
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\obj\Release\net6.0\ConvertFileToBase64.csproj.CoreCompileInputs.cache
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\obj\Release\net6.0\ConvertFileToBase64.csproj.CopyComplete
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\obj\Release\net6.0\ConvertFileToBase64.dll
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\obj\Release\net6.0\refint\ConvertFileToBase64.dll
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\obj\Release\net6.0\ConvertFileToBase64.pdb
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\obj\Release\net6.0\ConvertFileToBase64.genruntimeconfig.cache
+C:\Users\İlker\Source\Repos\ConvertFileToBase64\ConvertFileToBase64\obj\Release\net6.0\ref\ConvertFileToBase64.dll
